@@ -1,0 +1,6 @@
+Drive name: Main
+Directory create: mbs
+File create: main
+File end
+File first line: 23 35
+Directory end
